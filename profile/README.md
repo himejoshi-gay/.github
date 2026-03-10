@@ -1,7 +1,5 @@
-# 🌸 Himejoshi
-
 <p align="center">
-  <img src="https://github.com/himejoshi-gay/.github/blob/main/profile/readme.png" alt="thumbnail">
+  <img src="https://raw.githubusercontent.com/himejoshi-gay/.github/refs/heads/main/profile/readme.png" alt="thumbnail">
 </p>
 
 ## 📖 About
@@ -15,32 +13,32 @@
 ## The Ecosystem 🏗️
 
 - [x] [**🚀 Apollo**](https://github.com/himejoshi-gay/Apollo)  
-  The backbone of Himejoshi. Manages and deploys all components using Docker and Docker Compose, ensuring a streamlined setup for administrators.
+  The backbone of Himejoshi. Manages and deploys all components using Docker and Docker Compose.
 
 - [x] [**🌸 Himejoshi (Server Core)**](https://github.com/himejoshi-gay/Himejoshi)  
-  Our specialized fork of the Sunrise backend. handling core game logic and API for osu! servers.
+  The main server backend, handling core game logic and API for osu! servers.
 
 - [x] [**🌕 Moonlight (Frontend)**](https://github.com/himejoshi-gay/Moonlight)  
-  Our specialized fork of the Sunset frontend. Allows to browse profiles, leaderboards, multiplayer lobbies, and manage users/beatmaps using admin panel.
+  Himejoshi's frontend. Allows you to browse profiles, leaderboards, manage users/beatmaps via the admin panel & more.
 
 - [x] [**🌠 Observatory (Beatmap Manager)**](https://github.com/himejoshi-gay/Observatory)  
   A powerful "on-demand" beatmap manager that interfaces with the osu! API and mirrors to prioritize speed and accurate performance point (pp) calculations.
 
-- [x] [**✨ asteriaAI (Discord Bot)**](https://github.com/himejoshi-gay/asteriaAI)  
-  Deep Discord integration, delivering real-time server stats, profile lookups, and community utilities directly to your guild.
+- [x] [**✨ AsteriaAI (Discord Bot)**](https://github.com/himejoshi-gay/asteriaAI)  
+  Deep Discord integration, delivering real-time server stats, profile lookups, and community utilities directly to your server.
 
-- [x] [**🔭 telescope (Documentation)**](https://github.com/himejoshi-gay/Telescope)  
+- [x] [**🔭 Telescope (Documentation)**](https://github.com/himejoshi-gay/Telescope)  
   Comprehensive guides for setting up, configuring, and maintaining your Himejoshi instance.
 
 ---
 
 ## 📦 How to Set Up
 
-Please follow the [official documentation](https://docs.himejoshi.gay) (inherited from the Sunrise project) for detailed instructions on hosting your own instance.
+Please follow the [official documentation](https://docs.himejoshi.gay) for detailed instructions on hosting your own instance.
 
 ## 📚 Contribute
 
-We are open to contributions! Whether you're fixing bugs or suggesting new features, feel free to fork our repositories and submit a pull request.
+We are open to contributions! Whether you're fixing bugs or suggesting new features, feel free to fork any of our repositories and submit a pull request.
 
 > [!TIP]
 > **Want to help?** 🚢 Join our [Discord server](https://discord.gg/osugame). We have dedicated channels for feature requests where you can chat directly with the maintainers!
