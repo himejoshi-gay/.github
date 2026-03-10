@@ -43,7 +43,7 @@ Please follow the [official documentation](https://docs.himejoshi.gay) (inherite
 We are open to contributions! Whether you're fixing bugs or suggesting new features, feel free to fork our repositories and submit a pull request.
 
 > [!TIP]
-> **Want to help?** 🚢 Join our [Discord server](https://discord.gg/himejoshi). We have dedicated channels for feature requests where you can chat directly with the maintainers!
+> **Want to help?** 🚢 Join our [Discord server](https://discord.gg/osugame). We have dedicated channels for feature requests where you can chat directly with the maintainers!
 
 ## 📝 License
 
