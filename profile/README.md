@@ -1,5 +1,3 @@
-# 🌸 Himejoshi
-
 <p align="center">
   <img src="https://github.com/himejoshi-gay/.github/blob/main/profile/readme.png" alt="thumbnail">
 </p>
